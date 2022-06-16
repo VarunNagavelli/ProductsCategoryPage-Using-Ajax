@@ -1,0 +1,298 @@
+{
+    "products": [
+        {
+            "name": "acer Aspire 7",
+            "price": 89999,
+            "brand": "acer",
+            "discount": "36%",
+            "processor": "i5",
+            "features": {
+                "processor": "Intel Core i5 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512GB SSD"
+            },
+            "image": "images/Acer-101.webp",
+            "rating": 3
+        },
+        {
+            "name": "acer Aspire 7",
+            "price": 89000,
+            "brand": "acer",
+            "discount": "35%",
+            "processor": "ryzen5",
+            "features": {
+                "processor": "AMD Ryzen 5 Hexa Core",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Acer-102.webp",
+            "rating": 2
+        },
+        {
+            "name": "acer Aspire 5 A515-56",
+            "price": 48999,
+            "brand": "acer",
+            "discount": "20%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "4GB",
+                "storage": "256 GB SSD"
+            },
+            "image": "images/Acer-103.jpeg",
+            "rating": 3
+        },
+        {
+            "name": "ASUS X515JA-EJ362TS",
+            "price": 50990,
+            "brand": "asus",
+            "discount": "17%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (10th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Asus-101.webp",
+            "rating": 2
+        },
+        {
+            "name": "DELL Inspiron 3505",
+            "price": 49551,
+            "brand": "dell",
+            "discount": "19%",
+            "processor": "ryzen3",
+            "features": {
+                "processor": "AMD Ryzen 3 Dual Core Processor",
+                "ram": "8GB",
+                "storage": "256 GB SSD"
+            },
+            "image": "images/Dell-101.webp",
+            "rating": 5
+        },
+        {
+            "name": "HP 14s DY2501TU",
+            "price": 45892,
+            "brand": "hp",
+            "discount": "8%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "256GB SSD"
+            },
+            "image": "images/HP-101.webp",
+            "rating": 5
+        },
+        {
+            "name": "HP 15s",
+            "price": 48756,
+            "brand": "hp",
+            "discount": "5%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/HP-102.webp",
+            "rating": 4
+        },
+        {
+            "name": "HP Pavilion",
+            "price": 77141,
+            "brand": "hp",
+            "discount": "13%",
+            "processor": "i5",
+            "features": {
+                "processor": "Intel Core i5 Processor (11th Gen)",
+                "ram": "16GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/HP-103.webp",
+            "rating": 4
+        },
+        {
+            "name": "HP 15s",
+            "price": 43090,
+            "brand": "hp",
+            "discount": "4%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (10th Gen)",
+                "ram": "8GB",
+                "storage": "1TB HDD"
+            },
+            "image": "images/HP-103.webp",
+            "rating": 3
+        },
+        {
+            "name": "HP 15-ec1105AX",
+            "price": 70172,
+            "brand": "hp",
+            "discount": "14%",
+            "processor": "ryzen5",
+            "features": {
+                "processor": "AMD Ryzen 5 Hexa Core Processor",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/HP-104.webp",
+            "rating": 3
+        },
+        {
+            "name": "Lenovo Ideapad Slim 3i (2021)",
+            "price": 79890,
+            "brand": "lenovo",
+            "discount": "26%",
+            "processor": "i5",
+            "features": {
+                "processor": "Intel Core i5 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512GB SSD"
+            },
+            "image": "images/Lenovo-101.webp",
+            "rating": 3
+        },
+        {
+            "name": "Lenovo IdeaPad 3",
+            "price": 52190,
+            "brand": "lenovo",
+            "discount": "23%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (10th Gen)",
+                "ram": "8GB",
+                "storage": "1TB HDD"
+            },
+            "image": "images/Lenovo-102.webp",
+            "rating": 2
+        },
+        {
+            "name": "Lenovo IdeaPad 3",
+            "price": 57390,
+            "brand": "lenovo",
+            "discount": "22%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Lenovo-103.webp",
+            "rating": 2
+        },
+        {
+            "name": "Lenovo IdeaPad Slim 3i",
+            "price": 62490,
+            "brand": "lenovo",
+            "discount": "26%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Lenovo-104.webp",
+            "rating": 3
+        },
+        {
+            "name": "Lenovo Ideapad Slim 3i (2021)",
+            "price": 83890,
+            "brand": "lenovo",
+            "discount": "29%",
+            "processor": "i5",
+            "features": {
+                "processor": "Intel Core i5 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Lenovo-105.webp",
+            "rating": 3
+        },
+        {
+            "name": "Lenovo E41-45 Notebook",
+            "price": 28000,
+            "brand": "lenovo",
+            "discount": "0%",
+            "processor": "dualCore",
+            "features": {
+                "processor": "AMD APU Dual Core A9",
+                "ram": "4GB",
+                "storage": "1 TB HDD"
+            },
+            "image": "images/Lenovo-106.webp",
+            "rating": 1
+        },
+        {
+            "name": "Lenovo IdeaPad 3",
+            "price": 56690,
+            "brand": "lenovo",
+            "discount": "25%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "256 GB SSD"
+            },
+            "image": "images/Lenovo-107.webp",
+            "rating": 2
+        },
+        {
+            "name": "Mi Notebook Pro",
+            "price": 51999,
+            "brand": "mi",
+            "discount": "19%",
+            "processor": "i3",
+            "features": {
+                "processor": "Intel Core i3 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "256 GB SSD"
+            },
+            "image": "images/Mi-101.webp",
+            "rating": 4
+        },
+        {
+            "name": "Mi Notebook Ultra",
+            "price": 59990,
+            "brand": "mi",
+            "discount": "16%",
+            "processor": "i5",
+            "features": {
+                "processor": "Intel Core i5 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Mi-102.webp",
+            "rating": 4
+        },
+        {
+            "name": "Mi Notebook Horizon Edition 14",
+            "price": 65999,
+            "brand": "mi",
+            "discount": "9%",
+            "processor": "i7",
+            "features": {
+                "processor": "Intel Core i7 Processor (10th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Mi-103.webp",
+            "rating": 4
+        },
+        {
+            "name": "realme Book (Slim)",
+            "price": 69999,
+            "brand": "realme",
+            "discount": "18%",
+            "processor": "i5",
+            "features": {
+                "processor": "Intel Core i5 Processor (11th Gen)",
+                "ram": "8GB",
+                "storage": "512 GB SSD"
+            },
+            "image": "images/Realme-101.webp",
+            "rating": 4
+        }
+    ]
+}
